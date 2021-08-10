@@ -28,6 +28,7 @@ O usuário deve ser capaz de:
 - Issues ímpares devem ter uma visualização diferencia das issues pares
 - Utilizar a API do Github (https://github.com/facebook/react/issues)
 - Utilizar React e suas últimas tecnologias (React Hooks, React Context API, etc)
+- Implementar testes unitários, de integração, End-to-End (Jest, React Testing Library, Puppeteer, etc)
 - Usar Github para versionamento
 
 
